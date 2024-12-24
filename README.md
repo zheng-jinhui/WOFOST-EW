@@ -7,7 +7,7 @@ WOFOST-EW is an improved version of the WOFOST (World Food Studies Simulation Mo
 - The WOFOST model used is from the Python Crop Simulation Environment (PCSE), available at:  
   [PCSE Documentation](https://pcse.readthedocs.io/en/stable/)  
   or  
-  [PCSE GitHub Repository from Allard de Wit](https://github.com/ajwdewit/pcse.git).
+  [PCSE GitHub repository by Allard de Wit](https://github.com/ajwdewit/pcse.git).
 
 - The SCE-UA algorithm can be referenced at:  
   [Spotpy Documentation](https://spotpy.readthedocs.io/en/latest/).
