@@ -290,7 +290,8 @@ class DVS_Phenology(SimulationObject):
         CROP_START_TYPE = Enum(["sowing", "emergence"])
         CROP_END_TYPE = Enum(["maturity", "harvest", "earliest"])
 
-        EXTREME_WEATHER_FUNCTION = Float(-99.)  # The extreme weather function F(EW) was added by Zheng et al. (2024)
+        EXTREME_WEATHER_FUNCTION = Float(-99.)  # The extreme weather function F(EW) was added by Zheng et al. (2024) to simulate
+crop growth under extreme weather conditions.
 
     # -------------------------------------------------------------------------------
     class RateVariables(RatesTemplate):
