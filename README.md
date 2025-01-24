@@ -23,7 +23,9 @@ The **LSTM algorithm** is implemented using the **Keras** library:
 
 ## Publications
 
-This version of the WOFOST model is featured in the upcoming publication:
+This version of the WOFOST model has been used in the publication:  
 
 > **"Improving wheat phenology and yield forecasting with a deep learning-enhanced WOFOST model under extreme weather conditions"**  
 > Zheng et al. (to be submitted to *Geoscientific Model Development*)
+
+Reference and information will be added later.
