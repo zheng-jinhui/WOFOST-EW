@@ -7,7 +7,7 @@
 ## Resources
 
 ### WOFOST Model
-The base model is part of the Python Crop Simulation Environment (PCSE):
+The base model is part of the **Python Crop Simulation Environment** (PCSE):
 - [PCSE Documentation](https://pcse.readthedocs.io/en/stable/)
 - [PCSE GitHub repository by Allard de Wit](https://github.com/ajwdewit/pcse.git)
 
