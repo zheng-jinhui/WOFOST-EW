@@ -2,8 +2,8 @@
 
 ---
 
-**Authors**
-Jinhui Zheng, Le Yu, Zhenrong Du, Liujun Xiao, Xiaomeng Huang, and Liangzhi You
+## Authors  
+**Jinhui Zheng**, **Le Yu**, **Zhenrong Du**, **Liujun Xiao**, **Xiaomeng Huang**, and **Liangzhi You**
 
 ---
 
