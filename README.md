@@ -1,5 +1,12 @@
 # WOFOST-EW: Enhanced WOFOST Simulation Model for Extreme Weather
 
+---
+
+**Authors**
+Jinhui Zheng, Le Yu, Zhenrong Du, Liujun Xiao, Xiaomeng Huang, and Liangzhi You
+
+---
+
 **WOFOST-EW** is an improved version of the [WOFOST](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Facilities-Tools/Software-models-and-databases/WOFOST.htm) (World Food Studies Simulation Model) that improves crop growth simulations under extreme weather conditions. The primary enhancement is in the **Phenology** component (`PCSE-WOFOST-EW/crop/phenology.py`), where an **extreme weather function** has been added. This function combines an **Extreme Weather Index** with an **LSTM deep learning algorithm** for better prediction accuracy. Additionally, the **SCE-UA algorithm** is used to calibrate model parameters.
 
 ---
