@@ -2,7 +2,7 @@
 
 ---
 
-## Authors  
+### Authors  
 **Jinhui Zheng**, **Le Yu**, **Zhenrong Du**, **Liujun Xiao**, **Xiaomeng Huang**, and **Liangzhi You**
 
 ---
