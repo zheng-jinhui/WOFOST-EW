@@ -1,4 +1,4 @@
-# WOFOST-EW v1.0: Enhanced WOFOST Simulation Model for Extreme Weather
+# WOFOST-EW v1: Enhanced WOFOST Simulation Model for Extreme Weather
 
 ---
 
@@ -7,7 +7,7 @@
 
 ---
 
-**WOFOST-EW v1.0** is an improved version of the [WOFOST](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Facilities-Tools/Software-models-and-databases/WOFOST.htm) (World Food Studies Simulation Model) that improves crop growth simulations under extreme weather conditions. The primary enhancement is in the **Phenology** component (`PCSE-WOFOST-EW/crop/phenology.py`), where an **extreme weather function** has been added. This function combines an **Extreme Weather Index** with an **LSTM deep learning algorithm** for better prediction accuracy. Additionally, the **SCE-UA algorithm** is used to calibrate model parameters.
+**WOFOST-EW v1** is an improved version of the [WOFOST](https://www.wur.nl/en/Research-Results/Research-Institutes/Environmental-Research/Facilities-Tools/Software-models-and-databases/WOFOST.htm) (World Food Studies Simulation Model) that improves crop growth simulations under extreme weather conditions. The primary enhancement is in the **Phenology** component (`PCSE-WOFOST-EW/crop/phenology.py`), where an **extreme weather function** has been added. This function combines an **Extreme Weather Index** with an **LSTM deep learning algorithm** for better prediction accuracy. Additionally, the **SCE-UA algorithm** is used to calibrate model parameters.
 
 ---
 
@@ -32,7 +32,7 @@ The **LSTM algorithm** is implemented using the **Keras** library:
 
 This version of the WOFOST model has been used in the publication:  
 
-> **"Modeling wheat development under extreme weather with WOFOST-EW v1.0"**  
+> **"Modeling wheat development under extreme weather with WOFOST-EW v1"**  
 > Zheng et al. (to be submitted to *Geoscientific Model Development*)
 
 Reference and information will be added later.
