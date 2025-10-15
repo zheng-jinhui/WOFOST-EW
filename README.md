@@ -1,4 +1,4 @@
-# WOFOST-EW v1: Enhanced WOFOST Simulation Model for Extreme Weather
+# WOFOST-EW v1: Enhanced WOFOST for Extreme Weather
 
 ---
 
