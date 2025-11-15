@@ -32,7 +32,4 @@ The **LSTM algorithm** is implemented using the **Keras** library:
 
 This version of the WOFOST model has been used in the publication:  
 
-> **"Modeling wheat development under extreme weather with WOFOST-EW v1"**  
-> Zheng et al. (to be submitted to *Geoscientific Model Development*)
-
-Reference and information will be added later.
+> [Zheng, J., Yu, L., Du, Z., Xiao, L., and Huang, X.: Modeling wheat development under extreme weather with WOFOST-EW v1, Geosci. Model Dev., 18, 8379–8400, https://doi.org/10.5194/gmd-18-8379-2025, 2025.](https://doi.org/10.5194/gmd-18-8379-2025)
