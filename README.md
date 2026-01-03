@@ -1,4 +1,5 @@
-![WOFOST-EW logo](https://github.com/user-attachments/assets/833b064f-120c-4306-8b97-9e3956132e3f)
+![WOFOST-EWlogo](https://github.com/user-attachments/assets/6bbe8136-3934-47eb-8d56-231a65f649c7)
+
 
 # WOFOST-EW v1: Enhanced WOFOST for Extreme Weather
 
