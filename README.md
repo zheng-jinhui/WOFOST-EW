@@ -1,4 +1,4 @@
-<img width="977" height="952" alt="WOFOST-EW-logo" src="https://github.com/user-attachments/assets/4501828b-151e-4ced-b364-dc88774e75b7" />
+![WOFOST-EW logo](https://github.com/user-attachments/assets/833b064f-120c-4306-8b97-9e3956132e3f)
 
 # WOFOST-EW v1: Enhanced WOFOST for Extreme Weather
 
